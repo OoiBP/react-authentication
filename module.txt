@@ -1,0 +1,7 @@
+create-react-app app-name
+npm install react-router-dom --save
+npm install @material-ui/core --save
+npm install bootstrap --save
+npm install reactstrap --save
+npm install firebase --save
+npm install recompose --save // To organize higher-order components
